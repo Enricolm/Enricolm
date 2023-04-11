@@ -1,6 +1,6 @@
 ## Olá!!! sou Enrico Lopes Malachini
 - 🔭 Hoje Trabalho com Data Science/Engenharia de Dados 
-- 🌱 Estudando Sql/ MangoDB/ Machine Learning 
+- 🌱 Estudando Sql/ MongoDB/ Machine Learning 
 - 📫 Entre em Contato no e-mail: rico.malachini@gmail.com
 
 <div>
