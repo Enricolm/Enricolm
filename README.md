@@ -1,6 +1,7 @@
 ## Olá!!! sou Enrico Lopes Malachini
 - 🔭 Hoje Trabalho com Data Science/Engenharia de Dados 
 - 🌱 Estudando PostgreSql/ MongoDB/ Machine Learning/Apache beam/Apache airflow/Apache Spark
+- 🖥 O.S: Linux Ubuntu
 - 📫 Entre em Contato no e-mail: rico.malachini@gmail.com
 
 <div>
